@@ -1,0 +1,13 @@
+# macOS Finder files
+.DS_Store
+
+# Thumbnails
+._*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*~
+*.bak
